@@ -1,8 +1,9 @@
-from flask import Flask,render_template, request, Response
+from flask import Flask, request, Response
 from dotenv import load_dotenv
 import os
 from time import sleep
 from groq import Groq
+from flask_cors import CORS
 from helpers import *
 from selecionar_persona import *
 from selecionar_documento import *
@@ -10,10 +11,11 @@ from selecionar_documento import *
 load_dotenv()
 
 cliente = Groq(api_key=os.getenv("GROQ_API_KEY"))
-modelo ="meta-llama/llama-4-scout-17b-16e-instruct"
+modelo = "meta-llama/llama-4-scout-17b-16e-instruct"
 print(cliente)
 
 app = Flask(__name__)
+CORS(app, origins=["http://localhost:3000"])  # Libera apenas para o front na porta 3000
 app.secret_key = 'alura'
 
 def bot(prompt):
@@ -60,7 +62,6 @@ def bot(prompt):
                 sleep(1)
             
 
-
 @app.route("/chat", methods=["POST"])
 def chat():
     prompt = request.json["msg"]
@@ -68,9 +69,7 @@ def chat():
     texto_resposta = resposta.choices[0].message.content
     return texto_resposta
 
-@app.route("/")
-def home():
-    return render_template("index.html")
-
+# ...existing code...
 if __name__ == "__main__":
-    app.run(debug = True)
+    app.run(host="0.0.0.0", debug=True)
+# ...existing code...

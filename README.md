@@ -14,4 +14,5 @@ venv\Scripts\activate
 
 ```bash
 pip install numpy groq python-dotenv tiktoken flask opencv-python
+pip install flask-cors
 ```
