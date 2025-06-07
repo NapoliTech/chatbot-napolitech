@@ -1,0 +1,8 @@
+## Dados Pizzaria Bonari
+
+**Nome da pizzaria:** Pizzari Bonari
+
+**Slogan:** "Tecnologia e sabor em cada fatia"
+
+**Descrição do E-commerce:** 
+A Pizzaria Bonari é referência em qualidade, tradição e sabor. Localizada no coração da cidade, oferecemos uma experiência única em pizzas artesanais feitas com ingredientes selecionados e massas de longa fermentação. Nosso cardápio é variado para agradar todos os gostos, com opções clássicas, gourmet, vegetarianas e doces.

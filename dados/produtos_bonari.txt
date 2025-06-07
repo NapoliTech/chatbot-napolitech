@@ -1,0 +1,50 @@
+## Cardápio Disponível
+
+1. **Pizzas Tradicionais:**
+   - Margherita: molho de tomate, muçarela e manjericão fresco
+   - Calabresa: muçarela, calabresa e cebola
+   - Portuguesa: muçarela, presunto, ovo, cebola, ervilha e azeitona
+   - Napolitana: muçarela, tomate em rodelas e orégano
+   - Frango com Catupiry: frango desfiado e catupiry original
+   - Milho com Bacon: muçarela, milho verde e cubos de bacon crocante
+   - Toscana: linguiça toscana temperada, cebola roxa e muçarela
+   - Muçarela: clássica com molho de tomate e bastante queijo
+
+2. **Pizzas Gourmet:**
+   - Quatro Queijos: muçarela, gorgonzola, catupiry e parmesão
+   - Parma e Rúcula: presunto parma, rúcula fresca e lascas de parmesão
+   - Pepperoni com Mel: pepperoni crocante com toque de mel artesanal
+   - Burrata Especial: molho de tomate, muçarela de búfala e burrata cremosa
+   - Trufada: creme de trufas, muçarela e cogumelos salteados
+   - Camarão com Alho-Poró: camarões salteados e alho-poró ao molho branco
+   - Costela BBQ: costela desfiada com molho barbecue artesanal e cebola crispy
+
+3. **Pizzas Vegetarianas:**
+   - Caprese: tomate-cereja, muçarela de búfala e pesto
+   - Legumes Grelhados: abobrinha, berinjela, pimentão e cebola roxa
+   - Cogumelos ao Alho: mix de cogumelos frescos com alho e ervas
+   - Brócolis com Alho: brócolis ao alho, muçarela e requeijão
+   - Abobrinha com Tomate Seco: finas fatias de abobrinha grelhada com tomate seco e parmesão
+
+4. **Pizzas Doces:**
+   - Chocolate com Morango: creme de chocolate e morangos frescos
+   - Banana com Canela: banana caramelizada, açúcar e canela
+   - Romeu e Julieta: goiabada cremosa com queijo
+   - Nutella com Nozes: creme de avelã e nozes picadas
+   - Prestígio: chocolate, coco ralado e leite condensado
+   - Maçã com Canela: maçã fatiada ao forno com toque de canela e açúcar mascavo
+
+5. **Bebidas:**
+   - Refrigerantes (lata e 2L): Coca-Cola, Guaraná, Fanta, Sprite
+   - Sucos Naturais: laranja, abacaxi, limão
+   - Água com ou sem gás
+   - Cervejas artesanais selecionadas
+   - Chás gelados naturais
+
+6. **Entradas e Acompanhamentos:**
+   - Bruschettas variadas
+   - Pão de alho recheado
+   - Batatas rústicas com parmesão
+   - Salada caprese
+   - Anéis de cebola crocantes
+   - Tábua de frios com queijos e embutidos selecionados
